@@ -1,1 +1,1 @@
-# git-practice
+Initial project file
